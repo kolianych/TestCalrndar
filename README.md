@@ -1,6 +1,7 @@
 # flutter_calendar_zadach
 
 ![Снимок экрана 2024-12-06 081148](https://github.com/user-attachments/assets/23c8edb0-5b7d-4c19-afd4-46d1f4c7984b)
+![Снимок экрана 2024-12-06 083336](https://github.com/user-attachments/assets/616f4e60-3244-49c2-ab2e-9d8d99b76d12)
 ![Снимок экрана 2024-12-06 080642](https://github.com/user-attachments/assets/78dc3d1f-5270-42e1-8996-63ec64566ef4)
 ![Снимок экрана 2024-12-06 080736](https://github.com/user-attachments/assets/dba69173-3798-4391-b94f-051b54e36971)
 ![Снимок экрана 2024-12-06 080817](https://github.com/user-attachments/assets/604545f0-0d55-4413-a7d4-8bbdda1fa537)
