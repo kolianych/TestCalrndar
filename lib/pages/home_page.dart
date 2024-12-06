@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_calendar_zadach/localizationsBloc/locale_bloc.dart';
 import 'package:flutter_calendar_zadach/pages/bloc/calendar_bloc.dart';
 import 'package:flutter_calendar_zadach/pages/bloc/calendar_event.dart';
 import 'package:flutter_calendar_zadach/pages/bloc/calendar_state.dart';
@@ -41,6 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     final calendarBloc = BlocProvider.of<CalendarBloc>(context);
+    final localeState = BlocProvider.of<LocaleBloc>(context).state;
     return Scaffold(
       body: BlocBuilder<CalendarBloc, CalendarState>(
         builder: (context, state) {
@@ -53,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 SizedBox(
                   width: MediaQuery.of(context).size.width > 500 ? 500.0 : null,
                   child: TableCalendar(
-                    locale: 'ru_RU',
+                    locale: localeState.locale.toString(),
                     headerStyle: const HeaderStyle(formatButtonVisible: false),
                     startingDayOfWeek: StartingDayOfWeek.monday,
                     eventLoader: (day) => events[day] ?? [],
