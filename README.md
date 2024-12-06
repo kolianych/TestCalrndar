@@ -9,7 +9,6 @@
 ![Снимок экрана 2024-12-06 080929](https://github.com/user-attachments/assets/2673c623-8fb7-4135-a340-68da590c2b68)
 ![Снимок экрана 2024-12-06 080955](https://github.com/user-attachments/assets/cd8bfa9e-8d81-4df5-864b-9f78c8c09f6a)
 ![Снимок экрана 2024-12-06 081028](https://github.com/user-attachments/assets/a4e382ae-7093-4aa6-88ca-906090360e57)
-![Снимок экрана 2024-12-06 081120](https://github.com/user-attachments/assets/c78184e1-e84c-4b55-a960-bb5391b007aa)
+![Снимок экрана 2024-12-06 181934](https://github.com/user-attachments/assets/50a6d737-d09b-4a1b-a794-b9d6d115397a)
 ![Снимок экрана 2024-12-06 083151](https://github.com/user-attachments/assets/17eb81ae-4e81-4a77-a3ac-2958fbad1b2a)
 ![Снимок экрана 2024-12-06 081450](https://github.com/user-attachments/assets/0e571dca-5c79-4af2-8145-e93c7180bbbc)
-
