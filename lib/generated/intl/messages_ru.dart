@@ -29,6 +29,7 @@ class MessageLookup extends MessageLookupByLibrary {
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
         "addEvent": MessageLookupByLibrary.simpleMessage("Добавить событие"),
+        "all": MessageLookupByLibrary.simpleMessage("Все"),
         "alreadyHaveAnAccount":
             MessageLookupByLibrary.simpleMessage("У вас уже есть аккаунт?"),
         "anErrorOccurredE": m0,

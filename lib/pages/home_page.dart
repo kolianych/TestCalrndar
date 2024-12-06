@@ -119,8 +119,9 @@ class _MyHomePageState extends State<MyHomePage> {
                                     context: context,
                                     builder: (_) => AlertDialog(
                                       title: Text(S.of(context).deleteEvent),
-                                      content: const Text(
-                                          "Are you sure you want to delete?"),
+                                      content: Text(S
+                                          .of(context)
+                                          .areYouSureYouWantToDelete),
                                       actions: [
                                         TextButton(
                                           onPressed: () =>

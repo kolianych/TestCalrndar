@@ -40,5 +40,6 @@
   "theEmailAddressIsAlreadyInUse": "Адрес электронной почты уже используется.",
   "anErrorOccurredE": "Произошла ошибка: {e}",
   "invalidEmailOrPassword": "Неверный адрес электронной почты или пароль.",
-  "enterEventTitle": "Введите заголовок события"
+  "enterEventTitle": "Введите заголовок события",
+  "all": "Все"
 }

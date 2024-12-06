@@ -40,5 +40,6 @@
   "theEmailAddressIsAlreadyInUse": "The email address is already in use.",
   "anErrorOccurredE": "An error occurred: {e}",
   "invalidEmailOrPassword": "Invalid email or password.",
-  "enterEventTitle": "Enter event title"
+  "enterEventTitle": "Enter event title",
+  "all": "All"
 }

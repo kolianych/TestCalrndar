@@ -54,10 +54,10 @@ class EventsListPageState extends State<EventsListPage> {
                 shape: BoxShape.circle,
                 border: Border.all(color: Colors.blue, width: 2),
               ),
-              child: const Center(
+              child: Center(
                 child: Text(
-                  'Все',
-                  style: TextStyle(
+                  S.of(context).all,
+                  style: const TextStyle(
                       color: Colors.blue, fontWeight: FontWeight.bold),
                 ),
               ),
